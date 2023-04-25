@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mangomqy
+- 👋 Hi, I’m @mangomqy Quincy Ma
 - 👀 I’m interested in Brain-Computer-Interface(BCI) and VR/AR 
 - 🌱 I received my master's degree in biomedical Engineering from Tsinghua University
 - 💞️ I’m looking for a job！
