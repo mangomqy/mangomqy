@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mangomqy
 - 👀 I’m interested in Brain-Computer-Interface(BCI) and VR/AR 
-- 🌱 I’m currently learning biomedical engineeer in Tsinghua University
-- 💞️ I’m looking for a phd position
+- 🌱 I received my master's degree in biomedical Engineering from Tsinghua University
+- 💞️ I’m looking for a job！
 - 📫 If you interested in my experience, please contact me.
 
 <!---
